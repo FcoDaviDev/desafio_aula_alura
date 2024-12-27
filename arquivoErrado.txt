@@ -1,2 +1,0 @@
-Este arquivo será será enviado a um Commit
-e Posteriormente será excluído, utilizando git revert +id do commit a ser desfeito
